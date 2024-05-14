@@ -1,4 +1,4 @@
-#AI-meter-recognition
+# AI-meter-recognition
 
 В цьому репозипорії зберігаються приклади з інтеграції сервісу Meter-recognition підприємства Logicland на мові програмування PHP.
 На цьому профілі у GitHub можна знайти приклад інтеграції на ще 3 мови: Python, Java, C# 
